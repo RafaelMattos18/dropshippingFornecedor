@@ -15,4 +15,5 @@
     * [Compra recebida com produto errado](casos/trocas/compra-recebida-com-produto-errado.md)
   * Recusa
     * [Recusa de produto por avaria](casos/recusa-de-produto-por-avaria.md)
+    * [Recusa por avaria deseja outro produto ConnectParts](casos/recusa-por-avaria-deseja-outro-produto-connectparts.md)
 
