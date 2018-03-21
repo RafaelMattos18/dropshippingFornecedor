@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introducao](README.md)
+* [Produtos](chapter1.md)
+* [Pedidos](pedidos.md)
+
