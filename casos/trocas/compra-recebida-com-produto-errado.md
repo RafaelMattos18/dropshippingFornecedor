@@ -1,6 +1,6 @@
 # Compra recebida com produto errado (físico diferente da nota) 
 
---
+---
 
 **Cliente entra em contato com atendimento ConnectParts e comunica que o produto recebido está diferente da nota fiscal**. 
 
