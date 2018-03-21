@@ -2,7 +2,7 @@
 
 ---
 
-Cliente solicita a troca com atendimento ConnectParts e o mesmo negocia os prazos.
+**Cliente solicita a troca com atendimento ConnectParts e o mesmo negocia os prazos**.
 
 Atendimento analisa a solicitação, se responsabilidade da Connect, há um contato com o fornecedor para gerar Logística Reversa. Se não, orienta o cliente a postar a mercadoria para o endereço do fornecedor.
 

@@ -11,4 +11,5 @@
 * [Casos](casos.md)
   * [Trocas](casos/trocas.md)
     * [Troca por outro modelo depois de recebido](casos/trocas/troca-por-outro-modelo-depois-de-recebido.md)
+    * [Troca por outro produto da ConnectParts](casos/trocas/troca-por-outro-produto-da-connectparts.md)
 
