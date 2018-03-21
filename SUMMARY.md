@@ -17,4 +17,5 @@
     * [Recusa de produto por avaria](casos/recusa-de-produto-por-avaria.md)
     * [Recusa por avaria deseja outro produto ConnectParts](casos/recusa-por-avaria-deseja-outro-produto-connectparts.md)
     * [Recusa de produto e deseja cancelamento](casos/recusa-de-produto-e-deseja-cancelamento.md)
+    * [Recusa de produto e deseja outro modelo de produto DropShipping](casos/recusa-de-produto-e-deseja-outro-modelo-de-produto-dropshipping.md)
 
