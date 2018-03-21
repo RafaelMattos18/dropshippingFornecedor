@@ -21,4 +21,5 @@
     * [Cliente comprou, correios não conseguiu realizar a entrega](casos/cliente-comprou-correios-nao-conseguiu-realizar-a-entrega.md)
     * [Cliente comprou, não recusou no ato da entrega, porém produto chegou quebrado.](casos/cliente-comprou-nao-recusou-no-ato-da-entrega-porem-produto-chegou-quebrado.md)
     * [Cliente comprou, mas não recebeu ainda, quer trocar por outro modelo, produto ou estorno](casos/cliente-comprou-mas-nao-recebeu-ainda-quer-trocar-por-outro-modelo-produto-ou-estorno.md)
+* [Financeiro](financeiro.md)
 
