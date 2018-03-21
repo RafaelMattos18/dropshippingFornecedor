@@ -10,4 +10,5 @@
   * [Logistica reversa](frete/logistica-reversa.md)
 * [Casos](casos.md)
   * [Trocas](casos/trocas.md)
+    * [Troca por outro modelo depois de recebido](casos/trocas/troca-por-outro-modelo-depois-de-recebido.md)
 
