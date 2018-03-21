@@ -13,7 +13,8 @@
     * [Troca por outro modelo depois de recebido](casos/trocas/troca-por-outro-modelo-depois-de-recebido.md)
     * [Troca por outro produto da ConnectParts](casos/trocas/troca-por-outro-produto-da-connectparts.md)
     * [Compra recebida com produto errado](casos/trocas/compra-recebida-com-produto-errado.md)
-  * Recusa
+  * [Recusa / Cancelamento](casos/recusa.md)
     * [Recusa de produto por avaria](casos/recusa-de-produto-por-avaria.md)
     * [Recusa por avaria deseja outro produto ConnectParts](casos/recusa-por-avaria-deseja-outro-produto-connectparts.md)
+    * [Recusa de produto e deseja cancelamento](casos/recusa-de-produto-e-deseja-cancelamento.md)
 
