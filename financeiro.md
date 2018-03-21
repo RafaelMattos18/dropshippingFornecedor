@@ -12,6 +12,7 @@ A cobrança deverá ser acompanhada pela equipe de Cobrança normalmente, o forn
 
 Exemplo de nota fiscal de devolução de mercadoria (emitida pela ConnectParts):
 
+
 ![](http://developers.connectparts.com.br/imagens/atendimentoPedidos11.png)
 
 
