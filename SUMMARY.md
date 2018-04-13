@@ -1,6 +1,6 @@
 # Summary
 
-* [Introducao](README.md)
+* [Introdução](README.md)
 * [Produtos](chapter1.md)
 * [Pedidos](pedidos.md)
 * [Faturamento](faturamento.md)
