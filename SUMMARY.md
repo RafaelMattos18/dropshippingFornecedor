@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducao](README.md)
+* [Introdução](README.md)
 * [Autenticacao](autenticacao.md)
 * [Estoque](estoque.md)
 * [Fluxo pedido](fluxo-pedido.md)
