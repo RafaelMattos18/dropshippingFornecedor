@@ -1,3 +1,0 @@
-# TROCAS / DEVOLUÇÕES / CANCELAMENTOS
-
----
