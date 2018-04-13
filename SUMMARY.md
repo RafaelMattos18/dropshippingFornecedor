@@ -10,9 +10,7 @@
   * [Logistica reversa](frete/logistica-reversa.md)
 * [Casos](casos.md)
   * [Trocas](casos/trocas.md)
-    * [Troca por outro modelo depois de recebido](casos/trocas/troca-por-outro-modelo-depois-de-recebido.md)
-    * [Troca por outro produto da ConnectParts](casos/trocas/troca-por-outro-produto-da-connectparts.md)
-    * [Compra recebida com produto errado](casos/trocas/compra-recebida-com-produto-errado.md)
-  * [Recusa / Cancelamento](casos/recusa.md)
+  * [Recusas](casos/recusa.md)
+  * [Cancelamentos](casos/cancelamentos.md)
 * [Financeiro](financeiro.md)
 
