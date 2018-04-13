@@ -6,8 +6,6 @@
 * [Faturamento](faturamento.md)
 * [Estoque](estoque.md)
 * [Frete](frete.md)
-  * [Rastreio](frete/rastreio.md)
-  * [Logistica reversa](frete/logistica-reversa.md)
 * [Casos](casos.md)
   * [Trocas](casos/trocas.md)
   * [Recusas](casos/recusa.md)
