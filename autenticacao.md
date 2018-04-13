@@ -1,4 +1,4 @@
-# Autenticacao
+# Autenticação
 
 O Primeiro passo é realizar a autenticação, para isso deve acessar a API de autenticação.
 
